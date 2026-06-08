@@ -1,8 +1,11 @@
 # NetProbe
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/barisyzici/netprobe)
+
 UDP tabanlı güvenilir dosya aktarım (Reliable Data Transfer - RDT) ve performans analiz sistemi. NetProbe; sequence number, ACK, timeout ve retransmission gibi mekanizmaları UDP üzerinde uygulayarak kayıplı ve gecikmeli ağ ortamlarında dahi dosya bütünlüğünü koruyarak güvenilir veri aktarımı sağlar.
 
 Bursa Teknik Üniversitesi Bilgisayar Ağları Dersi Projesi kapsamında geliştirilmiştir.
+
 
 ---
 
